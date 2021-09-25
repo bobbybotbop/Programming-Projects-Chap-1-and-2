@@ -1,3 +1,4 @@
+//William Chen 
 import java.util.*;
 
 public class Average
